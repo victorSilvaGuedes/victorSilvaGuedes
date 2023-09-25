@@ -1,4 +1,4 @@
-<h1 align="center">✌️ Bem vindo ao meu GitHub!</h1>
+<h1 align="center">✌🏻 Bem vindo ao meu GitHub!</h1>
   <div align="center">
     <a href="mailto:sguedes.victor@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -18,7 +18,8 @@
 - 🎓 Graduando em Engenharia de Computação na Universidade de Ribeirão Preto (bolsista integral).
 - 🚀 Experiência em projetos acadêmicos e pessoais, onde utilizei tecnologias como C, Java, HTML, CSS e JavaScript.
 - 💡 Explorando o desenvolvimento web com HTML, CSS e JavaScript. Planejo expandir para React.js, Next.js e Node.js.
-- 👨‍💻 Em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+- 👨‍💻 Buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior.
+- 🍃 Em constante aprendizado...
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="html5" alt="html" width="50" height="50"/>
