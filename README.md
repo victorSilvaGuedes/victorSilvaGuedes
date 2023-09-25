@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">Me chamo Victor Silva Guedes e sou aspirante a desenvolvedor de software!</h2>
+<h2 align="center">Me chamo Victor e sou aspirante a desenvolvedor de software!</h2>
 
 - 🎓 Graduando em Engenharia de Computação na Universidade de Ribeirão Preto (bolsista integral).
 - 🚀 Experiência em projetos acadêmicos e pessoais, onde utilizei tecnologias como C, Java, HTML, CSS e JavaScript.
