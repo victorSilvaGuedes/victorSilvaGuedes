@@ -1,4 +1,4 @@
-<h1 align="center" href="#">✌️ Bem vindo ao meu GitHub!</h1>
+<h1 align="center">✌️ Bem vindo ao meu GitHub!</h1>
   <div align="center">
     <a href="mailto:sguedes.victor@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center" href="#">Me chamo Victor Silva Guedes e sou aspirante a desenvolvedor de software!</h2>
+<h2 align="center">Me chamo Victor Silva Guedes e sou aspirante a desenvolvedor de software!</h2>
 
 - 🎓 Graduando em Engenharia de Computação na Universidade de Ribeirão Preto (bolsista integral).
 - 🚀 Experiência em projetos acadêmicos e pessoais, onde utilizei tecnologias como C, Java, HTML, CSS e JavaScript.
@@ -21,12 +21,12 @@
 - 👨‍💻 Em busca da minha primeira oportunidade como estagiário ou desenvolvedor júnior.
 
 <div align="center">
-  <img href="#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="html5" alt="html" width="50" height="50"/>
-  <img href="#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="css" alt="css" width="50" height="50"/>
-  <img href="#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="50" height="50"/>
-  <img href="#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="nodejs" alt="nodejs" width="50" height="50"/>
-  <img href="#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/>
-  <img href="#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="c" alt="c" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="html5" alt="html" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="css" alt="css" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="nodejs" alt="nodejs" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="c" alt="c" width="50" height="50"/>&nbsp;
 </div>
 
 ---
