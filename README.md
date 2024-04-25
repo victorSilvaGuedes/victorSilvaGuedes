@@ -24,7 +24,9 @@
 
 
 <div align = "center">
-<img height = "200em" src="https://victorsilvaguedes-readme-stats.vercel.app/api/top-langs/?username=victorSilvaGuedes&theme=darcula&count_private=true&layout=donut&locale=pt-br"/>
-<img height = "200em" src="https://victorsilvaguedes-readme-stats.vercel.app/api?username=victorSilvaGuedes&count_private=true&show_icons=true&theme=darcula&include_all_commits=true&rank_icon=github&locale=pt-br"/>
-<a target="_blank" href="https://gist.github.com/victorSilvaGuedes/2d0aa8dbb8f2da0eb249a2c654ce50cf"><img src="https://victorsilvaguedes-readme-stats.vercel.app/api/gist?id=2d0aa8dbb8f2da0eb249a2c654ce50cf&show_owner=true&theme=darcula" /></a>
+  <a href="https://github.com/victorSilvaGuedes">
+<img height="200em" src="https://victorsilvaguedes-readme-stats.vercel.app/api/top-langs/?username=victorSilvaGuedes&theme=darcula&count_private=true&layout=donut&locale=pt-br"/></a>
+  <a href="https://github.com/victorSilvaGuedes">
+<img height="200em" src="https://victorsilvaguedes-readme-stats.vercel.app/api?username=victorSilvaGuedes&count_private=true&show_icons=true&theme=darcula&include_all_commits=true&rank_icon=github&locale=pt-br"/></a>
+  <a href="https://gist.github.com/victorSilvaGuedes/2d0aa8dbb8f2da0eb249a2c654ce50cf"><img src="https://victorsilvaguedes-readme-stats.vercel.app/api/gist?id=2d0aa8dbb8f2da0eb249a2c654ce50cf&show_owner=true&theme=darcula" /></a>
 </div>
