@@ -15,7 +15,8 @@
 
 <h2 align="center">Me chamo Victor, e sou desenvolvedor de software!</h2>
 
-- 🎓 Graduando em Engenharia de Computação na Universidade de Ribeirão Preto (UNAERP)
+- 🎓 Graduando em Engenharia da Computação na Universidade de Ribeirão Preto (UNAERP)
+- 🎮 Apaixonado pelo mundo da tecnologia, principalmente programação e jogos
 - 🚀 Explorando o desenvolvimento web com React.js, Next.js, TailwindCSS, Node.js, entre várias bibliotecas
 - 🍃 Em constante aprendizado...
 
