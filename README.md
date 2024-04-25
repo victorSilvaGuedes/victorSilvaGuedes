@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">Me chamo Victor, e sou desenvolvedor de software!</h2>
+<h1 align="center">Me chamo Victor, e sou desenvolvedor de software!</h2>
 
 - 🎓 Graduando em Engenharia da Computação na Universidade de Ribeirão Preto (UNAERP)
 - 🎮 Apaixonado pelo mundo da tecnologia, principalmente programação e jogos
