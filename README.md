@@ -1,4 +1,5 @@
 <h1 align="center">Bem vindo ao meu GitHub! ✌🏻</h1>
+<h2 align="center">Me chamo Victor, e sou desenvolvedor de software!</h2>
   <div align="center">
     <a href="mailto:sguedes.victor@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -12,8 +13,6 @@
 </div>
 
 ---
-
-<h1 align="center">Me chamo Victor, e sou desenvolvedor de software!</h2>
 
 - 🎓 Graduando em Engenharia da Computação na Universidade de Ribeirão Preto (UNAERP)
 - 🎮 Apaixonado pelo mundo da tecnologia, principalmente programação e jogos
