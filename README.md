@@ -17,7 +17,7 @@
 
 - 🎓 Graduando em Engenharia de Computação na Universidade de Ribeirão Preto (bolsista integral).
 - 🚀 Experiência em projetos acadêmicos e pessoais, onde utilizei tecnologias como C, Java, HTML, CSS e JavaScript.
-- 💡 Explorando o desenvolvimento web com HTML, CSS e JavaScript. Planejo expandir para React.js, Next.js e Node.js.
+- 💡 Explorando o desenvolvimento web com React.js, Next.js, TailwindCSS, Node.js, entre várias bibliotecas
 - 👨‍💻 Buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior.
 - 🍃 Em constante aprendizado...
 
