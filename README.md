@@ -1,14 +1,8 @@
 <div align="center">
   <h1>Bem vindo ao meu GitHub! ✌🏻</br>Me chamo Victor, e sou desenvolvedor de software!</h1>
-    <a href="mailto:sguedes.victor@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  <a href="https://www.linkedin.com/in/victorsilvaguedes/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-    <a href="https://www.instagram.com/victorsilvaguedess/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
+  <a href="mailto:sguedes.victor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/victorsilvaguedes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/victorsilvaguedess/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 ---
