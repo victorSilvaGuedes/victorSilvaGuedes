@@ -1,5 +1,4 @@
-<h1 align="center">Bem vindo ao meu GitHub! ✌🏻</h1>
-<h2 align="center">Me chamo Victor, e sou desenvolvedor de software!</h2>
+<h1 align="center">Bem vindo ao meu GitHub! ✌🏻</br>Me chamo Victor, e sou desenvolvedor de software!</h1>
   <div align="center">
     <a href="mailto:sguedes.victor@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
