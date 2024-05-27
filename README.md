@@ -7,10 +7,15 @@
 
 ---
 
-- 🎓 Graduando em Engenharia da Computação na Universidade de Ribeirão Preto (UNAERP)
-- 🎮 Apaixonado pelo mundo da tecnologia, principalmente programação e jogos
-- 🚀 Explorando o desenvolvimento web com TypeScript, React.js, Next.js, TailwindCSS, Node.js, Java entre várias bibliotecas
-- 🍃 Em constante aprendizado...
+- Formado em Técnico de Análise e Desenvolvimento de Sistemas pela ETEC, atualmente cursando Engenharia de Computação na Universidade de Ribeirão Preto (UNAERP).
+
+- Sou desenvolvedor de software com experiência em desenvolvimento front-end e em processo de aperfeiçoamento em desenvolvimento back-end.
+
+- Domínio em front-end com experiência profissional utilizando React, Next.js, Tailwind CSS e TypeScript, também estou aprimorando minhas habilidades em desenvolvimento back-end, estudando Node.js, Java e banco de dados, buscando me tornar um desenvolvedor full-stack.
+
+- Estou à procura de oportunidades para aplicar e aprimorar minhas habilidades em ambas as áreas.
+
+- Em constante aprendizado...
 
 <div align="center">
 <h3>Habilidades que estou desenvolvendo:</h3>
