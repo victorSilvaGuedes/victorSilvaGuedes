@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 Sou desenvolvedor de software com experiência em desenvolvimento front-end e em processo de aperfeiçoamento em desenvolvimento back-end.
 
-- ⚙️ Domínio em front-end com experiência profissional utilizando React, Next.js, Tailwind CSS e TypeScript, também estou aprimorando minhas habilidades em desenvolvimento back-end, estudando Node.js, Java e banco de dados, buscando me tornar um desenvolvedor full-stack.
+- ⚙️ Domínio em front-end com experiência profissional utilizando React, Next.js, Tailwind CSS e TypeScript, também estou aprimorando minhas habilidades em desenvolvimento back-end, estudando Node.js e banco de dados, buscando me tornar um desenvolvedor full-stack.
 
 - 🍃 Em constante aprendizado...
 
