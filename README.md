@@ -10,11 +10,3 @@ Engenheiro de computação por formação, e atuo como desenvolvedor de software
 Meu conhecimento profissional em front-end englobam as tecnologias: React, Next.js, Tailwind CSS, Shadcn/UI e TypeScript. No back-end, estou estudando a criação de APIs com Node.js e seus frameworks, além de ferramentas e tecnologias como Prisma ORM, Supabase, Postgres e Docker.
 
 Possuo experiência acadêmica em Java, Python, C, Dart, Flutter, MySQL e Firebase.
-
----
-
-
-<div align = "center">
-  <a href="https://github.com/victorSilvaGuedes">
-<img height="200em" src="https://victorsilvaguedes-readme-stats.vercel.app/api?username=victorSilvaGuedes&count_private=true&show_icons=true&theme=darcula&include_all_commits=true&rank_icon=github&locale=pt-br"/></a>
-</div>
